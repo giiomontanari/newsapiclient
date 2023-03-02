@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Washington Post",
+      "title": "Prince Harry and Meghan have been asked to 'vacate' Frogmore Cottage - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDIzLzAzLzAxL2Zyb2dtb3JlLWNvdHRhZ2UtaGFycnktbWVnaGFuLWFuZHJldy_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T22:28:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "Eli Lilly to Cut Insulin Price and Cap Monthly Out of Pocket Costs at $35 - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMDEvYnVzaW5lc3MvaW5zdWxpbi1wcmljZS1jYXAtZWxpLWxpbGx5Lmh0bWzSAVBodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDIzLzAzLzAxL2J1c2luZXNzL2luc3VsaW4tcHJpY2UtY2FwLWVsaS1saWxseS5hbXAuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T22:23:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Variety",
+      "title": "The Weeknd Fires Back at Rolling Stone Report Claiming ‘The Idol’ Is in Turmoil: ‘Did We Upset You?’ - Variety",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy90di9uZXdzL3RoZS13ZWVrbmQtc2xhbXMtcm9sbGluZy1zdG9uZS10aGUtaWRvbC1yZXBvcnQtaGJvLTEyMzU1NDAyMTIv0gFjaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL3R2L25ld3MvdGhlLXdlZWtuZC1zbGFtcy1yb2xsaW5nLXN0b25lLXRoZS1pZG9sLXJlcG9ydC1oYm8tMTIzNTU0MDIxMi9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T22:11:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ABC News",
+      "title": "Buffalo firefighter dies while battling downtown blaze - ABC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvd2lyZVN0b3J5L2J1ZmZhbG8tZmlyZWZpZ2h0ZXItdHJhcHBlZC1hZnRlci1wYXJ0aWFsLWJ1aWxkaW5nLWNvbGxhcHNlLTk3NTU5MDM00gFsaHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvVVMvd2lyZVN0b3J5L2J1ZmZhbG8tZmlyZWZpZ2h0ZXItdHJhcHBlZC1hZnRlci1wYXJ0aWFsLWJ1aWxkaW5nLWNvbGxhcHNlLTk3NTU5MDM0?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T22:07:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Financial Times",
+      "title": "Joe Biden expected to issue first presidential veto in anti-ESG vote - Financial Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2JhNGQwMDI4LWVhZWMtNDdkZi04MmM0LTJjOGQ5Mjk4ZTliZdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T21:30:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNBC",
+      "title": "Elon Musk presents Tesla 'Master Plan 3' with emphasis on sustainable energy - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDMvMDEvdGVzbGEtMjAyMy1pbnZlc3Rvci1kYXktYWZ0ZXItdGhlLWJlbGwtbWFzdGVyLXBsYW4tcGFydC0zLXRlYXNlZC5odG1s0gFpaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMDMvMDEvdGVzbGEtMjAyMy1pbnZlc3Rvci1kYXktYWZ0ZXItdGhlLWJlbGwtbWFzdGVyLXBsYW4tcGFydC0zLXRlYXNlZC5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T20:43:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Washington Post",
+      "title": "How to see the Jupiter Venus conjunction - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93ZWF0aGVyLzIwMjMvMDMvMDEvanVwaXRlci12ZW51cy1jb25qdW5jdGlvbi1tb29uL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T20:23:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Guardian",
+      "title": "Judge says NFL coach Brian Flores can press discrimination claims in court - The Guardian",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIzL21hci8wMS9icmlhbi1mbG9yZXMtZGlzY3JpbWluYXRpb24tbGF3c3VpdC1uZmwtdGVhbXPSAVtodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vc3BvcnQvMjAyMy9tYXIvMDEvYnJpYW4tZmxvcmVzLWRpc2NyaW1pbmF0aW9uLWxhd3N1aXQtbmZsLXRlYW1z?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T20:13:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CBS News",
+      "title": "Colon cancer rates keep rising in younger age group, new study finds - CBS News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvY29sb24tY2FuY2VyLXlvdW5nZXItYWR1bHRzLXJhdGVzLXJpc2Utc3R1ZHkv0gFOaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvY29sb24tY2FuY2VyLXlvdW5nZXItYWR1bHRzLXJhdGVzLXJpc2Utc3R1ZHkv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T20:03:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN",
+      "title": "'True Lies' spices up a marriage through spy work in a series version of the movie - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMS9lbnRlcnRhaW5tZW50L3RydWUtbGllcy1yZXZldy9pbmRleC5odG1s0gFLaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMy8wMS9lbnRlcnRhaW5tZW50L3RydWUtbGllcy1yZXZldy9pbmRleC5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T19:54:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "USA TODAY",
+      "title": "Former GOP Rep. Liz Cheney, who lost her seat in Congress to Trump-backed challenger, to teach at UVA - USA TODAY",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDMvMDEvbGl6LWNoZW5leS11bml2ZXJzaXR5LW9mLXZpcmdpbmlhLzExMzc1MDk0MDAyL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T19:45:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNBC",
+      "title": "Biden administration lawyer may have saved student loan forgiveness plan at Supreme Court - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDMvMDEvc3VwcmVtZS1jb3VydC1iaWRlbi1sb2FuLWZvcmdpdmVuZXNzLXBsYW4tY2hhbmNlcy5odG1s0gFaaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMDMvMDEvc3VwcmVtZS1jb3VydC1iaWRlbi1sb2FuLWZvcmdpdmVuZXNzLXBsYW4tY2hhbmNlcy5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T19:06:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Ars Technica",
+      "title": "NASA’s DART impactor shows how planetary defense can work - Ars Technica",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NjaWVuY2UvMjAyMy8wMy9uYXNhcy1kYXJ0LWltcGFjdG9yLXNob3dzLWhvdy1wbGFuZXRhcnktZGVmZW5zZS1jYW4td29yay_SAWVodHRwczovL2Fyc3RlY2huaWNhLmNvbS9zY2llbmNlLzIwMjMvMDMvbmFzYXMtZGFydC1pbXBhY3Rvci1zaG93cy1ob3ctcGxhbmV0YXJ5LWRlZmVuc2UtY2FuLXdvcmsvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T19:04:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CBS Sports",
+      "title": "Agent's Take: Aaron Rodgers' trade value and the logistics of dealing the Packers' star QB, plus his best fit - CBS Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25mbC9uZXdzL2FnZW50cy10YWtlLWFhcm9uLXJvZGdlcnMtdHJhZGUtdmFsdWUtYW5kLXRoZS1sb2dpc3RpY3Mtb2YtZGVhbGluZy10aGUtcGFja2Vycy1zdGFyLXFiLXBsdXMtaGlzLWJlc3QtZml0L9IBkAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25mbC9uZXdzL2FnZW50cy10YWtlLWFhcm9uLXJvZGdlcnMtdHJhZGUtdmFsdWUtYW5kLXRoZS1sb2dpc3RpY3Mtb2YtZGVhbGluZy10aGUtcGFja2Vycy1zdGFyLXFiLXBsdXMtaGlzLWJlc3QtZml0L2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T19:01:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Space.com",
+      "title": "Rare glimpse at scattered remnants of the oldest known supernova - Space.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnNwYWNlLmNvbS9hbmNpZW50LXN1cGVybm92YS1yZW1haW5zLWZyb20teWVhci0xODUtcGhvdG_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T19:00:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NASA",
+      "title": "NASA Updates Coverage for Agency's SpaceX Crew-6 Launch - NASA",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm5hc2EuZ292L3ByZXNzLXJlbGVhc2UvbmFzYS11cGRhdGVzLWNvdmVyYWdlLWZvci1hZ2VuY3ktcy1zcGFjZXgtY3Jldy02LWxhdW5jaNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T18:42:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Washington Post",
+      "title": "'Havana syndrome' not caused by energy weapon or foreign adversary, intelligence review finds - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDIzLzAzLzAxL2hhdmFuYS1zeW5kcm9tZS1pbnRlbGxpZ2VuY2UtcmVwb3J0LXdlYXBvbi_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T18:27:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Al Jazeera English",
+      "title": "China, Belarus presidents call for establishing peace in Ukraine - Al Jazeera English",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzMvMS9jaGluYS1iZWxhcnVzLXByZXNpZGVudHMtY2FsbC1mb3ItdWtyYWluZS1jZWFzZS1maXJlLXRhbGtz0gFmaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDIzLzMvMS9jaGluYS1iZWxhcnVzLXByZXNpZGVudHMtY2FsbC1mb3ItdWtyYWluZS1jZWFzZS1maXJlLXRhbGtz?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T18:17:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Associated Press",
+      "title": "Nigeria's Bola Tinubu declared winner of presidential vote - The Associated Press",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25pZ2VyaWEtZWxlY3Rpb24tYWZyaWNhLXZvdGUtdGludWJ1LTU2ODdlNmIxOTI5ZTBlZTk1Nzk0Y2ViYjY4NjIxZjk50gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T17:40:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "WJAR",
+      "title": "NBC's Savannah Guthrie, Hoda Kotb off 'Today' show over health-related matters - WJAR",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vdHVybnRvMTAuY29tL25ld3MvZW50ZXJ0YWlubWVudC9uYmMtdG9kYXktc2hvdy1hYnNlbmNlLXNhdmFubmFoLWd1dGhyaWUtaG9kYS1rb3RiLWZhbWlseS1oZWFsdGgtbWF0dGVyLWNvdmlkLTE50gF7aHR0cHM6Ly90dXJudG8xMC5jb20vYW1wL25ld3MvZW50ZXJ0YWlubWVudC9uYmMtdG9kYXktc2hvdy1hYnNlbmNlLXNhdmFubmFoLWd1dGhyaWUtaG9kYS1rb3RiLWZhbWlseS1oZWFsdGgtbWF0dGVyLWNvdmlkLTE5?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T17:07:35Z",
+      "content": null
+    }
+  ]
+}
